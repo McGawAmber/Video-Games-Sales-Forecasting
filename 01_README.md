@@ -31,10 +31,9 @@ This project analyzes global video game sales data to identify trends, understan
 04_Video_Games_Analysis.ipynb
 
 ## 🖼️ Sample Visualizations
-(Add images to a /visuals folder, then link them)
-
-![Sales Trends](visuals/sales_trends.png)
-![Genre Distribution](visuals/genre_distribution.png)
+![Game Releases By Year](Bar_Plot_Game_Releases_by_Year.png)
+![Top 10 Platforms by Sales](Bar_Plot_Top_10_Platforms_Sales.png)
+![Platform Sales Over Time](Heatmap_Platform_Sales_Over_Time.png)
 
 ## 🚀 How to Run
 1. Clone the repository  
