@@ -25,15 +25,15 @@ This project analyzes global video game sales data to identify trends, understan
 - Delivered insights that support forecasting and decision‑making  
 
 ## 📂 Repository Structure
-01_README.md
-02_requirements.txt
-03_.gitignore.txt
-04_Video_Games_Analysis.ipynb
+- 01_README.md
+- 02_requirements.txt
+- 03_.gitignore.txt
+- 04_Video_Games_Analysis.ipynb
 
 ## 🖼️ Sample Visualizations
-![Game Releases By Year](Bar_Plot_Game_Releases_by_Year.png)
-![Top 10 Platforms by Sales](Bar_Plot_Top_10_Platforms_Sales.png)
-![Platform Sales Over Time](Heatmap_Platform_Sales_Over_Time.png)
+![Game Releases By Year](visuals/Bar_Plot_Game_Releases_by_Year.png)
+![Top 10 Platforms by Sales](visuals/Bar_Plot_Top_10_Platforms_Sales.png)
+![Platform Sales Over Time](visuals/Heatmap_Platform_Sales_Over_Time.png)
 
 ## 🚀 How to Run
 1. Clone the repository  
