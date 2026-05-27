@@ -25,6 +25,10 @@ This project analyzes global video game sales data to identify trends, understan
 - Delivered insights that support forecasting and decision‑making  
 
 ## 📂 Repository Structure
+01_README.md
+02_requirements.txt
+03_.gitignore.txt
+04_Video_Games_Analysis.ipynb
 
 ## 🖼️ Sample Visualizations
 (Add images to a /visuals folder, then link them)
@@ -39,9 +43,8 @@ This project analyzes global video game sales data to identify trends, understan
 4. Run cells in order  
 
 ## 🔗 Links
-- **Portfolio:** https://yourwebsite.com  
-- **Project Demo:** (Add link if you have one)  
-- **GitHub Repo:** (Your repo link here)
+- **Portfolio:** (https://McGawAmber.github.io/my-website)
+- **GitHub Repo:** (https://github.com/McGawAmber/mobile-plan-classification)
 
 ## 📬 Contact
 If you'd like to discuss this project or collaborate, feel free to reach out.  
